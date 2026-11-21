@@ -1,0 +1,30 @@
+# --- GameMaker Studio 2 - Archivos locales y temporales ---
+*.resource_order
+*.log
+*.tmp
+*.bak
+*.old
+*.yy.backup
+*.yyp.user
+*.user
+
+# Caché de compilación y carpetas locales de GMS2
+Build/
+untitled-jrpg/configs/
+untitled-jrpg/options/operagx/
+
+# Exportaciones y builds locales
+builds/
+*.exe
+*.zip
+*.yyz
+
+# --- Sistema Operativo y Editores ---
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+*.stackdump
+*.lnk
+.vscode/
