@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_event_bus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_event_bus",
+  "parent":{
+    "name":"99_Shared_Tools",
+    "path":"folders/99_Shared_Tools.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

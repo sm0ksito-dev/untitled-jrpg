@@ -17,8 +17,8 @@
     {"$GMFolder":"","%Name":"04_Module_Minigames","folderPath":"folders/04_Module_Minigames.yy","name":"04_Module_Minigames","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"05_World_Art_&_Tiles","folderPath":"folders/05_World_Art_&_Tiles.yy","name":"05_World_Art_&_Tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"06_UI_&_HUD","folderPath":"folders/06_UI_&_HUD.yy","name":"06_UI_&_HUD","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"99_Shared_Tools","folderPath":"folders/99_Shared_Tools.yy","name":"99_Shared_Tools","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"07_Audio","folderPath":"folders/07_Audio.yy","name":"07_Audio","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"99_Shared_Tools","folderPath":"folders/99_Shared_Tools.yy","name":"99_Shared_Tools","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -30,6 +30,7 @@
   "name":"untitled-jrpg",
   "resources":[
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"id":{"name":"scr_event_bus","path":"scripts/scr_event_bus/scr_event_bus.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
